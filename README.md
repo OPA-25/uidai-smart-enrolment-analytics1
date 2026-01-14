@@ -2,23 +2,6 @@ Project Report – UIDAI Hackathon
 Project Name - “UIDAI Smart Enrolment
 Analytics”
 
-TABLE OF CONTENTS
-Sr. No.	Title	Page No.
-1	Problem Statement	2
-2	Dataset Details	3
-3	Technical Stack	4
-4	System Architecture	5
-5	Feature Explanations	6
- 	5.1 Landing Dashboard Overview	
- 	5.2 State and District Analysis	
- 	5.3 Insights and Recommendations	
- 	5.4 Map View Analysis	
- 	5.5 Risk Alert and Early Warning System	
-6	Screenshots	7-11
-7	Insights and Outcomes	12
-8	Conclusion	12
-9	Source Code and Demo Video	13
-
 
 1. Problem Statement
 
@@ -108,44 +91,11 @@ Export & Reporting:
 This section includes screenshots of:
 
 Main dashboard overview
- 
- 
 State/district analytics page
-
-
-
- 
-Insights and recommendation panel
- 
+Insights and recommendation panel 
 Map view visualization
-
-
- 
 Risk alert management screen
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
- 
 7. Insights & Outcomes
 
 •	Identified districts with high enrolment pressure and update delays
