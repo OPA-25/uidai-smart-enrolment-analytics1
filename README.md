@@ -36,6 +36,7 @@ Key attributes:
 •	Monthly and yearly trends
 The datasets are stored and processed using a structured relational database for efficient querying and analysis.
  
+
 3. Technical Stack
 
 Frontend:
@@ -53,7 +54,8 @@ Database:
 Architecture Type:
 •	Client–Server Architecture
 •	Frontend and Backend deployed independently
- 
+
+ 
 4. System Architecture
 
 The system follows a three-layer architecture:
@@ -61,7 +63,8 @@ The system follows a three-layer architecture:
 2.	Application Layer (Spring Boot): Business logic, analytics processing, risk evaluation, and insights generation
 3.	Data Layer (MySQL): Storage of enrolment, update, risk alerts, and historical trend data
 APIs connect the frontend with backend services to ensure scalable and secure data access.
- 
+
+ 
 5. Feature Explanations
 
 Landing Dashboard:
@@ -87,6 +90,7 @@ Export & Reporting:
 •	CSV export for raw data
 •	PDF reports for management review
  
+
 6.  Screenshots
 This section includes screenshots of:
 
